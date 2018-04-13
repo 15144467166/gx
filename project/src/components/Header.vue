@@ -10,7 +10,7 @@ export default {
   name:'AppHeader',
   data () {
       return {
-          data: ''
+          data: 'sdf'
       }
   }
 }
